@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Furqan Cheema</h1>
 <h3 align="center">I'm a passionate Front-end Developer from Pakistan.</h3>
-</br>
 <div align="center">
   🔭 I’m currently working on **Library Management System**
-</br>
+  
   🌱 I’m currently learning **C#**
   
   👯 I’m looking to collaborate on **OpenSource Projects**
