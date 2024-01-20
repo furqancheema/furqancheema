@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Furqan Cheema</h1>
 <h3 align="center">I'm a passionate Front-end Developer from Pakistan.</h3>
-<br/>
-<p align="center">
+
+<div align="center">
   🔭 I’m currently working on **Library Management System**
   
   🌱 I’m currently learning **C#**
@@ -9,7 +9,7 @@
   👯 I’m looking to collaborate on **OpenSource Projects**
   
   ⚡ Fun fact **Learn New Technology and Read Books**
-</p>
+</div>
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammadfurqancheema/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadfurqancheema/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/furqancheema2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/furqancheema2001" height="30" width="40" /></a>
