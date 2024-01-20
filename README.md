@@ -2,13 +2,13 @@
 <h3 align="center">I'm a passionate Front-end Developer from Pakistan.</h3>
 </br>
 <div align="center">
-- 🔭 I’m currently working on **Library Management System**
-
-- 🌱 I’m currently learning **C#**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- ⚡ Fun fact **Learn New Technology and Read Books**
+  🔭 I’m currently working on **Library Management System**
+  
+  🌱 I’m currently learning **C#**
+  
+  👯 I’m looking to collaborate on **OpenSource Projects**
+  
+  ⚡ Fun fact **Learn New Technology and Read Books**
 </div>
 <div>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammadfurqancheema?style=for-the-badge&logo=linkedin&color=red" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadfurqancheema/" height="30" width="40" /></a>
