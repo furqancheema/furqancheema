@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Front-end Developer from Pakistan.</h3>
 <br/>
 <h2>🙋‍♂️About Me</h2>
-<hr/>
+
 - 🔭 I’m currently working on **Library Management System**
 
 - 🌱 I’m currently learning **C#**
