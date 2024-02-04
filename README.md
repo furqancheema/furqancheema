@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" />
 <h1 align="center">Hi 👋, I'm Muhammad Furqan Cheema</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
