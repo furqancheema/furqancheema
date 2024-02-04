@@ -1,4 +1,4 @@
-<img align="center" width="400" alt="coding" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" />
+<p align="center"> <img width="400" alt="coding" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" /> </p>
 <h1 align="center">Hi 👋, I'm Muhammad Furqan Cheema</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
