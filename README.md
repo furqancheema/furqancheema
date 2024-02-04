@@ -1,4 +1,4 @@
-<img alt="coding" src="![Uploading image.png…]()">
+<img align="center" alt="coding" src="![Uploading image.png…]()"
 <h1 align="center">Hi 👋, I'm Muhammad Furqan Cheema</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
