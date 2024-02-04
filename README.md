@@ -1,3 +1,4 @@
+<img align="center" alt="coding" width="400" src="![image](https://github.com/furqancheema/furqancheema/assets/111676611/51685220-3c4d-45c4-9d87-536ec0d84b7c)"
 <h1 align="center">Hi 👋, I'm Muhammad Furqan Cheema</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
