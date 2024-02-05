@@ -8,6 +8,8 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+- 💬 Ask me about **C++, Javascript**
+
 - 📫 How to reach me **furqancheema2001@gmail.com**
 
 - ⚡ Fun fact **Learn New Technology and Read Books**
